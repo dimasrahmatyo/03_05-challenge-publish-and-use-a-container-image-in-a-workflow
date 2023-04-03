@@ -1,4 +1,4 @@
-# 03_05-challenge-publish-and-use-a-container-image-in-a-workflow
+# 03_05-challenge-publish-and-use-a-container-image-in-a-workflow (edit)
 Use these files to solve the following challenge:
 - Create a new repo
 - Add the exercise files
